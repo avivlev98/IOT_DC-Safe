@@ -1,2 +1,2 @@
-# SmartHome
-Smart Home Manager GUI
+# DCSafe
+DCSafe Manager GUI
